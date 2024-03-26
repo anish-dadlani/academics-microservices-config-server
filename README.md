@@ -1,0 +1,1 @@
+# academics-microservices-config-server
